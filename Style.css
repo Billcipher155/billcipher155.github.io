@@ -1,0 +1,15 @@
+body 
+{
+    background-color: #171761;
+opacity: 0.8;
+background-image:  linear-gradient(30deg, #2ea92b 12%, transparent 12.5%, transparent 87%, #2ea92b 87.5%, #2ea92b), linear-gradient(150deg, #2ea92b 12%, transparent 12.5%, transparent 87%, #2ea92b 87.5%, #2ea92b), linear-gradient(30deg, #2ea92b 12%, transparent 12.5%, transparent 87%, #2ea92b 87.5%, #2ea92b), linear-gradient(150deg, #2ea92b 12%, transparent 12.5%, transparent 87%, #2ea92b 87.5%, #2ea92b), linear-gradient(60deg, #2ea92b77 25%, transparent 25.5%, transparent 75%, #2ea92b77 75%, #2ea92b77), linear-gradient(60deg, #2ea92b77 25%, transparent 25.5%, transparent 75%, #2ea92b77 75%, #2ea92b77);
+background-size: 36px 63px;
+background-position: 0 0, 0 0, 18px 32px, 18px 32px, 0 0, 18px 32px;
+}
+
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}

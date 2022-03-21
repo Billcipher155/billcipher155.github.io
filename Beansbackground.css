@@ -1,0 +1,14 @@
+body
+{
+    background-image:url(pictures/istockphoto-969582980-612x612.jpg);
+}
+
+h1{
+    text-align: center;
+}
+
+p   {
+    text-align: center;
+    background-color:darkgrey;
+    color: black;
+}
